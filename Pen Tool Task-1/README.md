@@ -9,12 +9,15 @@ In this task, you are supposed to copy the given vector in Illustrator or Figma 
 > 💡 This task can be done in **Adobe Illustrator or Figma**.
 
 ## Submission Guideline:
-- Submit the illustrator file or a .txt file containing the link of your Figma file in the "Pen tool Task-1" Folder only.
+- Submit the illustrator file or a .txt file containing the link of your Figma file in the "Pen Tool Task-1" Folder only.
 > This task is for 15 points
 
 ## MDC (Minimum Design Criteria):
 
-In this task you can only submit one PR once submitted you wont get chance to edit. The vector which you are going to copy should look like the vector given.
+In this task you can only submit **1 PR** once submitted you wont get chance to edit. The vector which you are going to copy should look like the vector given.
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
+
+![lion-head-logo-simple-vector-21270561](https://github.com/opencodeiiita/Lets-Design-4.0/assets/115364171/3938a6aa-fce6-489c-8607-d96973e9d19b)
+
 
