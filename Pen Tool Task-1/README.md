@@ -10,7 +10,7 @@ In this task, you are supposed to copy the given vector in Illustrator or Figma 
 
 ## Submission Guideline:
 - Submit the illustrator file or a .txt file containing the link of your Figma file in the "Pen Tool Task-1" Folder only.
-> This task is for 15 points
+> This task is for 20 points
 
 ## MDC (Minimum Design Criteria):
 
