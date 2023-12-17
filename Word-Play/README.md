@@ -18,7 +18,7 @@ If you are unclear how to start you can look here for inspiration:
 ## Submission Guideline:
 
 - Submit the illustrator file or a .txt file containing the link of your Figma file.
-- Make sure to submit the file under the Folder named _"Word Play Challenge"_
+- Make sure to submit the file under the Folder named _"Word-Play"_
 
 > All PRs will be reviewed once the deadline is over.
 > This task is of 30 points. The best design will get full points.
@@ -29,6 +29,9 @@ If you are unclear how to start you can look here for inspiration:
 The vector should describe the word given. It should not be just text, you have to involve design in it.
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
+
+![d21632da51a2aaf92d6b1c5428e3098d](https://github.com/opencodeiiita/Lets-Design-4.0/assets/115364171/e8174cd8-f492-4d28-b3d8-2de2ae076feb)
+
 
 
 
