@@ -23,6 +23,8 @@ Event Name \
 Event Date - 31 December \
 Event Time -  6:00 PM \
 Event Venue - PMC, IIITA \
-Your contact details \
+Your contact details 
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
+![dd581ef9fa88679fd81c1e2f6e538a7c](https://github.com/opencodeiiita/Lets-Design-4.0/assets/115364171/e0e5f5b3-cb80-4ad3-ab2e-92c9d0015605)
+
