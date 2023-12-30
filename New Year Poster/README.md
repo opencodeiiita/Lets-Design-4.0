@@ -12,7 +12,7 @@ In this task, you are supposed to design a poster for New Year. and submit the I
 
 ## Submission Guideline:
 
-- Submit the illustrator file or .txt file with the figma link in the "Christmas Poster" Folder only.
+- Submit the illustrator file or .txt file with the figma link in the "New Year Poster" Folder only.
 
 > This task is for 20 points.
 
